@@ -2,7 +2,7 @@ fileTypes:
 - csl
 - kql
 - kusto
-name: kusto file
+name: Kusto
 patterns:
 - match: \b(let|set|alias|declare|pattern|restrict|access|to|set)\b
   name: keyword.control.kusto

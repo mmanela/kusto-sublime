@@ -13,7 +13,7 @@
         </array>
 
         <key>name</key>
-        <string>kusto file</string>
+        <string>Kusto</string>
 
         <key>patterns</key>
         <!-- Kusto Query Language
