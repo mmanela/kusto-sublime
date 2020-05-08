@@ -2,6 +2,7 @@
 	"extensions":
 	[
 		"csl",
-		"kql"
+		"kql",
+		"kust"
 	]
 }
