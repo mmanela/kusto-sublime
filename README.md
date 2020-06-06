@@ -1,5 +1,5 @@
 # Kusto Sublime
-Provide syntax highlighting for (kusto language in sublime)[https://packagecontrol.io/packages/Kusto%20Syntax%20 Highlighter] 
+Provide syntax highlighting for kusto language in [sublime](https://packagecontrol.io/packages/Kusto%20Syntax%20Highlighter) 
 
 
 
