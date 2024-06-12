@@ -3,4 +3,4 @@ Provide syntax highlighting for kusto language in [sublime](https://packagecontr
 
 
 
-The syntax coloring definition was sources from this repo: https://github.com/rosshamish/kuskus/tree/master/kusto-syntax-highlighting
+The syntax coloring definition was sourced from this repo: https://github.com/rosshamish/kuskus/tree/master/kusto-syntax-highlighting
